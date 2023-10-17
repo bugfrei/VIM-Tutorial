@@ -2,7 +2,7 @@
 
 Dieses Tutorial besteht aus folgenden Teilen:
 
-- [[VIM Anleitung.md]]
+- [VIM Anleitung.md](VIM Anleitung.md)
 Die eigentliche Anleitung zu VIM (bevorzugt ==NeoVIM==)
 
 - [[VIM Konfiguration.md]]
