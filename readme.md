@@ -2,11 +2,11 @@
 
 Dieses Tutorial besteht aus folgenden Teilen:
 
-- [VIM Anleitung.md](VIM Anleitung.md)
-Die eigentliche Anleitung zu VIM (bevorzugt ==NeoVIM==)
+- [VIM Anleitung.md](./VIM Anleitung.md)
+Die eigentliche Anleitung zu VIM (bevorzugt NeoVIM)
 
-- [[VIM Konfiguration.md]]
-Anleitung, Beispiele und fertige Konfigurationen zum VIM (bevorzugt ==NeoVIM==)
+- [VIM Konfiguration.md](./VIM Konfiguration.md)
+Anleitung, Beispiele und fertige Konfigurationen zum VIM (bevorzugt NeoVIM)
 
 - Ordner `Dateien`
 Hier befinden sich die Beispiel-Textdokumente, zum üben der einzellnen Abschnitte der Anleitung.
@@ -17,9 +17,9 @@ Geht die komplette Anleitung durch und zeigt die dort enthaltenen Abschnitte in 
 
 # Anleitung
 
-Die Anleitung liegt als ==.pdf== Datei und im ==Markdown==-Format vor.
+Die Anleitung liegt als **.pdf**-Datei und im **Markdown**-Format vor.
 
-Die ==.md== Dateien sind direkt mit dem Programm ==Obsidian== verwendbar.
+Die **.md** Dateien sind direkt mit dem Programm **Obsidian** verwendbar.
 
 [Obsidian](https://obsidian.md) ist ein sehr gutes Programm zum erstellen von Notizen. Es ist kostenlos, benötigt keinen Account oder Server. Es unterstützt Markdown und erlaubt auch die Verwendung grundlegender VIM Funktionalitäten.
 
@@ -39,7 +39,7 @@ Auf den [Downloadseite](https://github.com/neovim/neovim/wiki/Installing-Neovim)
 
 ## Konfigurieren von NeoVIM
 
-In der Datei [[VIM Konfiguration.md]] sind Beispiel-Konfiguration (Minimal und Nützlich) aufgeführt.
+In der Datei [VIM Konfiguration.md](./VIM Konfiguration.md) sind Beispiel-Konfiguration (Minimal und Nützlich) aufgeführt.
 
 Die Konfigurationsdateien liegen an folgenden Pfaden:
 
