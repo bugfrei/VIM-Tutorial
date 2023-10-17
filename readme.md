@@ -2,14 +2,10 @@
 
 Dieses Tutorial besteht aus folgenden Teilen:
 
-- [VIM Anleitung.md](.\VIM_Anleitung.md)<br />
-
-
-
-- [VIM Anleitung.md](.\VIM Anleitung.md)<br />
+- [VIM Anleitung](.\VIM_Anleitung.md)<br />
 Die eigentliche Anleitung zu VIM (bevorzugt NeoVIM)
 
-- [VIM Konfiguration.md](.\VIM Konfiguration.md)<br />
+- [VIM Konfiguration](.\VIM_Konfiguration.md)<br />
 Anleitung, Beispiele und fertige Konfigurationen zum VIM (bevorzugt NeoVIM)
 
 - Ordner `Dateien`
@@ -43,7 +39,7 @@ Auf den [Downloadseite](https://github.com/neovim/neovim/wiki/Installing-Neovim)
 
 ## Konfigurieren von NeoVIM
 
-In der Datei [VIM Konfiguration.md](./VIM Konfiguration.md) sind Beispiel-Konfiguration (Minimal und Nützlich) aufgeführt.
+In der Datei [VIM Konfiguration](./VIM_Konfiguration.md) sind Beispiel-Konfiguration (Minimal und Nützlich) aufgeführt.
 
 Die Konfigurationsdateien liegen an folgenden Pfaden:
 
