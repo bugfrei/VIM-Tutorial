@@ -63,4 +63,47 @@ Die Konfigurationsdateien heißen `init.vim` bei NeoVIM und `.vimrc` bei VIM. Da
 bzw. für VIM:<br />
 ~\.vimrc
 
+# Aufbau der Anleitung und Ablauf der YouTube-Videos
+Die Anleitung ist grob von einfach zu schwer aufgebaut. Da die Anleitung in den YouTube-Videos von Anfang bis Ende vorgeführt wird, sind die Videos ebenfalls von einfach zu schwer geordnet.
+
+In der Anleitung stehen neben manchen Überschriften rote Zeitangaben mit Angabe des Teils. z.B. `3:17 Teil 3`<br />
+Dies sind die Positionen im Video, bei denen der folgende Abschnitt (Überschrift) behandelt wird.
+
+Diese Angaben sind nicht im Markdown-Format sondern im HTML Format angegeben und werden nicht von allen Markdown-Readern korrekt angezeigt! Sie ist ein Link der sowohl in z.B. Obsidian als auch im PDF funktioniert und direkt die Stelle im YouTube Video öffnet.
+
+## Wie soll ich das Tutorial bzw. die Videos ansehen
+
+Zum einen kann das komplette Material von Anfang bis Ende durchgegangen werden. Bei den Videos empfielt es sich ab und zu pause zu machen um die Übungen und Beispiele anhand der `Dateien` nachzumachen.
+
+Zum anderen kann natürlich auch ein bestimmte Abschnitt angesehen werden. Wenn bei der täglichen Arbeit bestimmte VIM Funktionalitäten gebraucht werden oder diese gerade in Vergessenheit geraten sind.
+
+## Tipps zur Anleitung
+
+Am besten die `VIM_Anleitung.md` irgendwo hin kopieren und die Inhalte raus löschen, die problemlos beherscht werden (in Fleisch und Blut übergegangen).
+
+Damit beinhaltet diese Version nur noch Inhalte, die noch gelernt werden müssen (und natürlich auch die Links/Zeitangaben zu den Videos).
+
+Die original-Version verbleibt im geklonten Git-Repository inkl. aller anderen Dateien.
+
+Mit `git restore .` können alle Dateien zurück gesetzt werden. Auch die Übungsdateien. Damit lassen sich die Übungen und Beispiele aus den Videos beliebig oft wiederholen.
+
+Es ist auch immer Hilfreich eigene Dateien zu erstellen um bestimmte Probleme mittels VIM (ohne Maus, Cursortasten, ...) zu lösen. Um eigene Text-Dateien mehrmals nutzen zu können können diese mit
+
+```
+git add .
+git commit -m "Beschreibungstext"
+```
+
+dem Git-Repository hinzugefügt und dann mit `git restore .` zurück gesetzt werden.
+
+Ansonsten gilt: Learning by doing
+
+# Weiterführende Informationen
+
+Online und Interaktive Tutorials:
+
+- https://www.openvim.com 
+- https://www.vim-hero.com
+
+oder einfach: `vimtutor` eingeben (Bestandteil der VIM Installation).
 
