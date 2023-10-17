@@ -2,10 +2,10 @@
 
 Dieses Tutorial besteht aus folgenden Teilen:
 
-- [VIM Anleitung](.\VIM_Anleitung.md)<br />
+- [VIM Anleitung](./VIM_Anleitung.md)<br />
 Die eigentliche Anleitung zu VIM (bevorzugt NeoVIM)
 
-- [VIM Konfiguration](.\VIM_Konfiguration.md)<br />
+- [VIM Konfiguration](./VIM_Konfiguration.md)<br />
 Anleitung, Beispiele und fertige Konfigurationen zum VIM (bevorzugt NeoVIM)
 
 - Ordner `Dateien`
@@ -43,24 +43,24 @@ In der Datei [VIM Konfiguration](./VIM_Konfiguration.md) sind Beispiel-Konfigura
 
 Die Konfigurationsdateien liegen an folgenden Pfaden:
 
-**Windows**
-NeoVIM: ~\AppData\Local\nvim
+**Windows**<br />
+NeoVIM: ~\AppData\Local\nvim<br />
 VIM: ~
 
-**Linux**
-NeoVIM: ~/.config/nvim/
+**Linux**<br />
+NeoVIM: ~/.config/nvim/<br />
 VIM: ~
 
-**Mac**
-NeoVIM: ~/.config/nvim/
+**Mac**<br />
+NeoVIM: ~/.config/nvim/<br />
 VIM: ~
 
 Die Konfigurationsdateien heißen `init.vim` bei NeoVIM und `.vimrc` bei VIM. Daraus ergeben sich folgende kompletten Pfade:
 
-~\AppData\Local\nvim\init.vim
+~\AppData\Local\nvim\init.vim<br />
 ~/.config/nvim/init.vim
 
-bzw. für VIM:
+bzw. für VIM:<br />
 ~\.vimrc
 
 
