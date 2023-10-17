@@ -2,10 +2,14 @@
 
 Dieses Tutorial besteht aus folgenden Teilen:
 
-- [VIM Anleitung.md](./VIM Anleitung.md)<br />
+- [VIM Anleitung.md](.\VIM_Anleitung.md)<br />
+
+
+
+- [VIM Anleitung.md](.\VIM Anleitung.md)<br />
 Die eigentliche Anleitung zu VIM (bevorzugt NeoVIM)
 
-- [VIM Konfiguration.md](./VIM Konfiguration.md)
+- [VIM Konfiguration.md](.\VIM Konfiguration.md)<br />
 Anleitung, Beispiele und fertige Konfigurationen zum VIM (bevorzugt NeoVIM)
 
 - Ordner `Dateien`
