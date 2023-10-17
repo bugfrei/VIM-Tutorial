@@ -1175,8 +1175,13 @@ Krasses Video zur Konfiguration von NeoVim: [# 0 to LSP : Neovim RC From Scratch
 %%
 #TODO Kapitel Nummer und Zeit des Videos in Dokumentation nachtragen.
 #TODO Veröffentlichen als Github-Repository mit
+ZIELORDNER:
+```
+/Users/carstenschlegel/Projekte/VIM-Tutorial
+```
 - PDF Version
 - Obsidian/Markdown File
-- readme.md als Startseite des Repos
+
+- readme.md auf #TODO durchsuchen und erledigen
 - ggfs. Word Dokument
 %%
